@@ -1,6 +1,0 @@
-# Permitir a todos los robots rastrear todo el sitio
-User-agent: *
-Allow: /
-
-# Ubicación del Sitemap
-Sitemap: https://loto-control-app.vercel.app/sitemap.xml

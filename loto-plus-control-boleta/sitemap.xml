@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <!-- ¡IMPORTANTE! Reemplaza "URL_DE_TU_APP" con la URL real de tu aplicación -->
-    <loc>https://loto-control-app.vercel.app/</loc>
-    <lastmod>2024-01-01</lastmod> <!-- Puedes poner la fecha de hoy -->
-    <priority>1.00</priority>
-  </url>
-</urlset>
