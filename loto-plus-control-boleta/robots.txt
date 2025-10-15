@@ -4,4 +4,4 @@ Allow: /
 
 # Ubicación del Sitemap
 # ¡IMPORTANTE! Reemplaza "URL_DE_TU_APP" con la URL real de tu aplicación
-Sitemap: URL_DE_TU_APP/sitemap.xml
+Sitemap: https://loto-control-app.vercel.app/sitemap.xml
