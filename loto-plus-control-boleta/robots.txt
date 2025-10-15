@@ -1,0 +1,7 @@
+# Permitir a todos los robots rastrear todo el sitio
+User-agent: *
+Allow: /
+
+# Ubicación del Sitemap
+# ¡IMPORTANTE! Reemplaza "URL_DE_TU_APP" con la URL real de tu aplicación
+Sitemap: URL_DE_TU_APP/sitemap.xml
