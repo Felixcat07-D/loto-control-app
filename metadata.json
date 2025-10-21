@@ -1,0 +1,5 @@
+{
+  "name": "Loto Plus Control Boleta",
+  "description": "Una aplicación para controlar los números de tu boleta de lotería contra los resultados oficiales del sorteo para cuatro modalidades de juego diferentes y un número 'Plus' especial.",
+  "requestFramePermissions": []
+}
